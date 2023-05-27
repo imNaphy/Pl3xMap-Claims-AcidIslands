@@ -1,0 +1,7 @@
+name: Pl3xMap-Claims-BentoBox
+version: '${project.version}'
+main: me.pl3xmapclaimsbentobox.Pl3xMap_Claims_BentoBox
+api-version: 1.19
+load: "POSTWORLD"
+author: naphy
+softdepend: [Pl3xMap, BentoBox]
